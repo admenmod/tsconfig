@@ -1,0 +1,25 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"target": "ESNext",
+		"module": "NodeNext",
+		"useDefineForClassFields": true,
+		"moduleResolution": "NodeNext",
+		"strictFunctionTypes": true,
+		"resolveJsonModule": true,
+		"isolatedModules": true,
+		"esModuleInterop": true,
+		"declaration": true, 
+		"allowJs": false,
+		"checkJs": false,
+		"noUnusedLocals": false,
+		"noUnusedParameters": false,
+		"noImplicitReturns": true,
+		"noImplicitAny": true,
+		"noImplicitThis": true,
+		"skipLibCheck": true,
+		"lib": ["ESNext"],
+		"resolvePackageJsonExports": true,
+		"allowSyntheticDefaultImports": false
+	}
+}
